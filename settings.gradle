@@ -1,0 +1,3 @@
+include ':app:contentproviderdemo'
+include ':app'
+rootProject.name = "storedemo"
